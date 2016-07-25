@@ -4,6 +4,8 @@ The ideia is to select the key algorithms that any that data scientist should kn
 
 If we do it collectively, one per week, we can build a nice database about these algorithms. 
 
+We can use a single dataset to evaluate the differences between them. The Iris Flower seems to be a good choice: https://en.wikipedia.org/wiki/Iris_flower_data_set
+
 I looked around in the search for some key algorithms. These are the ones that I found, but I am sure that there are more (wikipedia has a huge list [3]). Let's try to prioritise them [1, 2] :
 
 - Logistic Regression
