@@ -21,7 +21,7 @@ I looked around in the search for some key algorithms. These are the ones that I
 - Xgboost
 - Deep Convolutional neural networks
 
-There are some types of machine learning algorithms [1, 3], it may be a good ideia to divide the algorithms by those types:
+There are some types of machine learning algorithms [1, 3], it may be a good ideia to divide the algorithms by these types:
 - Supervised Learning
 - Unsupervised Learning
 - Reinforced Learning
